@@ -9,20 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) - Experienced podcast with variety that has been running for a long while featuring interesting insights from people in the community
 - [Motion and Meaning](http://www.motionandmeaning.io/) - A new motion design oriented podcast, quite interesting but you'll only learn the viewpoints from the two hosts at the moment
 - [Path to Performance](https://pathtoperf.com/) - New podcast oriented around the topic of Web Performance
-
-### Uncurated
-
-Yet to listen to and get a good feel of what the podcasts are about:
-- http://responsivewebdesign.com/podcast/
-- https://responsivedesign.is/podcasts
-- http://5by5.tv/bigwebshow
-- http://shoptalkshow.com/
-- http://toolsday.io/
-- http://svgimmersion.com/
-- http://spec.fm/
-- https://www.relay.fm/
-- http://javascriptair.com/
-
+- [The Big Web Show](http://5by5.tv/bigwebshow) - Variety topics
 
 ## License
 
