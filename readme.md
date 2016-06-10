@@ -11,6 +11,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Path to Performance](https://pathtoperf.com/) - New podcast oriented around the topic of Web Performance
 - [The Big Web Show](http://5by5.tv/bigwebshow) - Variety topics
 
+
+Others: (Feel free to contribute a description)
+- [http://responsivewebdesign.com/podcast/
+- [https://responsivedesign.is/podcasts
+- [http://shoptalkshow.com/]
+- [http://toolsday.io/]
+- [http://svgimmersion.com/]
+- [http://www.weboftomorrowpodcast.com/]
+- [http://ctrlclickcast.com/]
+- [http://spec.fm/]
+- [https://www.relay.fm/]
+- [http://descriptive.audio/]
+- [https://fivejs.codeschool.com/]
+- [http://javascriptair.com/]
+- [http://threedevsandamaybe.com/]
+- [http://www.fullstackradio.com/]
+- [https://devchat.tv/]
+- [http://devhell.info/]
+- [https://blog.codepen.io/radio/]
+
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
