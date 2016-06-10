@@ -23,12 +23,14 @@ Others: (In need of title & description)
 - [relay.fm](https://www.relay.fm/)
 - [descriptive.audio](http://descriptive.audio/)
 - [fivejs.codeschool.com](https://fivejs.codeschool.com/)
+- [frontendfive.codeschool.com](https://frontendfive.codeschool.com/)
 - [javascriptair.com](http://javascriptair.com/)
 - [threedevsandamaybe.com](http://threedevsandamaybe.com/)
 - [fullstackradio.com](http://www.fullstackradio.com/)
 - [devchat.tv](https://devchat.tv/)
 - [devhell.info](http://devhell.info/)
 - [codepen.io/radio](https://blog.codepen.io/radio/)
+- [ttlpodcast.com](http://ttlpodcast.com/)
 
 
 ## License
