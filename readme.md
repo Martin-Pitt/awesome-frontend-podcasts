@@ -8,28 +8,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber) - Experienced podcast with variety that has been running for a long while featuring interesting insights from people in the community
 - [Motion and Meaning](http://www.motionandmeaning.io/) - A new motion design oriented podcast, quite interesting but you'll only learn the viewpoints from the two hosts at the moment
-- [Path to Performance](https://pathtoperf.com/) - New podcast oriented around the topic of Web Performance
+- [Path to Performance](https://pathtoperf.com/) - New podcast oriented around Web Performance
 - [The Big Web Show](http://5by5.tv/bigwebshow) - Variety topics
 
-
-Others: (Feel free to contribute a description)
-- [http://responsivewebdesign.com/podcast/
-- [https://responsivedesign.is/podcasts
-- [http://shoptalkshow.com/]
-- [http://toolsday.io/]
-- [http://svgimmersion.com/]
-- [http://www.weboftomorrowpodcast.com/]
-- [http://ctrlclickcast.com/]
-- [http://spec.fm/]
-- [https://www.relay.fm/]
-- [http://descriptive.audio/]
-- [https://fivejs.codeschool.com/]
-- [http://javascriptair.com/]
-- [http://threedevsandamaybe.com/]
-- [http://www.fullstackradio.com/]
-- [https://devchat.tv/]
-- [http://devhell.info/]
-- [https://blog.codepen.io/radio/]
+Others: (In need of title & description)
+- [responsivewebdesign.com/podcast](http://responsivewebdesign.com/podcast/)
+- [responsivedesign.is/podcasts](https://responsivedesign.is/podcasts)
+- [shoptalkshow.com](http://shoptalkshow.com/)
+- [toolsday.io](http://toolsday.io/)
+- [svgimmersion.com](http://svgimmersion.com/)
+- [weboftomorrowpodcast.com](http://www.weboftomorrowpodcast.com/)
+- [ctrlclickcast.com](http://ctrlclickcast.com/)
+- [spec.fm](http://spec.fm/)
+- [relay.fm](https://www.relay.fm/)
+- [descriptive.audio](http://descriptive.audio/)
+- [fivejs.codeschool.com](https://fivejs.codeschool.com/)
+- [javascriptair.com](http://javascriptair.com/)
+- [threedevsandamaybe.com](http://threedevsandamaybe.com/)
+- [fullstackradio.com](http://www.fullstackradio.com/)
+- [devchat.tv](https://devchat.tv/)
+- [devhell.info](http://devhell.info/)
+- [codepen.io/radio](https://blog.codepen.io/radio/)
 
 
 ## License
