@@ -31,6 +31,7 @@ Others: (In need of title & description)
 - [devhell.info](http://devhell.info/)
 - [codepen.io/radio](https://blog.codepen.io/radio/)
 - [ttlpodcast.com](http://ttlpodcast.com/)
+- [react30](https://react30.com/)
 
 
 ## License
