@@ -3,6 +3,7 @@
 > A curated list of awesome Front-end [Podcasts](#podcasts).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+You might also be interested in this [web animation and motion design listening list](http://valhead.com/2016/07/03/weekend-podcast-playlist/).
 
 ## Podcasts
 
