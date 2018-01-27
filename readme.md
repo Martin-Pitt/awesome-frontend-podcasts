@@ -9,7 +9,7 @@ You might also be interested in this [web animation and motion design listening 
 
 In no particular order:
 
-- [HTTP 203](https://developers.google.com/web/shows/http203/podcast/) – Hosted by (@DasSurma)[https://twitter.com/DasSurma] & (@JaffaTheCake)[https://twitter.com/JaffaTheCake]. Funny, interesting, and all about the web.
+- [HTTP 203](https://developers.google.com/web/shows/http203/podcast/) – Hosted by [@DasSurma](https://twitter.com/DasSurma) & [@JaffaTheCake](https://twitter.com/JaffaTheCake). Funny, interesting, and all about the web.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) - Experienced podcast with variety that has been running for a long while featuring interesting insights from people in the community
 - [Motion and Meaning](http://www.motionandmeaning.io/) - A fascinating podcast series around motion design, covering a lot of ground, from convincing a team to figuring out, tools, best practices, design principles and implementing animation in the context of your product
 - [Path to Performance](https://pathtoperf.com/) - New podcast oriented around Web Performance
