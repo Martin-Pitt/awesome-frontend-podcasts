@@ -19,7 +19,7 @@ In no particular order:
 - [Shop Talk Show](http://shoptalkshow.com/) - Live podcast about Web Design, Development and UX with Chris Coyier and Dave Rupert
 - [Toolsday](http://toolsday.io/) - 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podcast is brought to you by Chris Dhanaraj and Una Kravets.
 - [SVG Immersion](http://svgimmersion.com/) - Empowers you to passively learn SVG. Each episode is a deep dive in to one SVG concept, designed to supplement and reinforce difficult concepts.
-- [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - About JavaScript, web development, web design, and technology.
+- [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) - About JavaScript, web development, web design, and technology.
 - [CTRL+CLICK CAST](http://ctrlclickcast.com/) - Inspecting the web for you, featuring diverse voices and tackling everything from design, code and content management systems, to culture and business challenges. Hosted by Lea Alcantara and Emily Lewis.
 - [Spec FM](http://spec.fm/) - Multiple podcasts with a Slack community around it; From design and development to web, android and ios
 - [Relay FM](https://www.relay.fm/) - an independent podcast network for people who are creative, curious and maybe even a little obsessive — just like its hosts.
